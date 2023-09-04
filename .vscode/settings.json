@@ -37,6 +37,13 @@
       "array": "c",
       "e569_00245_Uncompress.C": "cpp",
       "string": "c",
-      "map": "c"
+      "map": "c",
+      "deque": "cpp",
+      "vector": "cpp",
+      "any": "cpp",
+      "ranges": "cpp",
+      "span": "cpp",
+      "stacktrace": "cpp",
+      "regex": "cpp"
     }
   }

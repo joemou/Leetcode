@@ -1,3 +1,2 @@
 # Leetcode
-pratice leetcode in c++
-its just a note cannot compile on comipler plz past it on leetcode
+A note of praticing Leetcode in c++. The code cannot be compiled on compiler please past it on leetcode website.
